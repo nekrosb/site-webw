@@ -1,25 +1,36 @@
+details {
+    background: pink;
+    width: 200px;
+    margin: 20px;
+}
+
+summary {
+    cursor: pointer;
+    font-size: 18px;
+    background: #333;
+    color: white;
+    border: 6px;
+    list-style: none;
+}
+
 header {
     background: green;
-    display: flex;
     height: 250px;
 }
-nav {
-    display: flex;
-    justify-content: right;
 
-}
 ol {
-    display: flex;
     list-style: none;
-    padding: 30px;
-    margin: 0;
-    
+    padding: 10px;
+    margin: 0px;
+    border-radius: 6px;
 }
+
 body {
     background: black;
     display: flex;
     justify-content: center;
 }
+
 .content {
     background: white;
     width: 1200px;
