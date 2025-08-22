@@ -3,6 +3,18 @@ header {
     display: flex;
     height: 250px;
 }
+nav {
+    display: flex
+    justify-content: left;
+
+}
+ol {
+    display: flex;
+    list-style: none;
+    padding: 30px;
+    margin: 0;
+    
+}
 body {
     background: black;
     display: flex;
