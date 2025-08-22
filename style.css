@@ -4,8 +4,8 @@ header {
     height: 250px;
 }
 nav {
-    display: flex
-    justify-content: left;
+    display: flex;
+    justify-content: right;
 
 }
 ol {
